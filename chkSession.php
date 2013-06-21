@@ -8,7 +8,7 @@ session_start();
 //echo "pre user name   ".$_SESSION['my_name'];
 if(isset($_SESSION['my_name'])){
     echo "pre user name   ".$_SESSION['my_name'];
-    $_SESSION['my_name']="Ranu";
+    $_SESSION['my_name']="Rashmi";
 }
 else{
      echo "session can not set";
