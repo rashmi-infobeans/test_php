@@ -5,7 +5,7 @@ require_once('calendar/classes/tc_calendar.php');
 <html>
     <head>
 
-        <title>TriConsole - Programming, Web Hosting, and Entertainment Directory</title>
+        <title>Change the title by rashmi</title>
 
 
         <link href="calendar/calendar.css" rel="stylesheet" type="text/css" />
