@@ -5,7 +5,7 @@ require_once('calendar/classes/tc_calendar.php');
 <html>
     <head>
 
-        <title>Change the title by rashmi 10</title>
+        <title>Change the title by rashmi 11</title>
 
 
         <link href="calendar/calendar.css" rel="stylesheet" type="text/css" />
